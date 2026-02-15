@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prithvi 👋
 
-<!--
-**prithvi-rajan-222/prithvi-rajan-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Building
+- [slide-cn](https://slide-cn.com) (slides as code)
+- Nocten
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python / Django
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+- Blog: https://prithvi-rajan.vercel.app
+
+## Connect
+- LinkedIn:
+- Twitter:
