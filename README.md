@@ -14,7 +14,7 @@ I am a Software Developer. I also [write](https://prithvi-rajan.vercel.app) a bi
 - React / Next.js
 - TailwindCSS
 
-## Nocten.ai
+## [Nocten.ai](https://nocten.ai)
 A tool for product managers, that analyzes user questions, and provides insights about your product. It helps PMs understand the following:
 - Where users face friction in your product
 - What are the constraints and requirements of potential users
